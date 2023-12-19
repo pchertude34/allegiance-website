@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Allegiance Mobile RV Repair Service">
+    <title>{{ title }}</title>
+    <link rel="icon" href="/img/allegiance_favicon.svg">
+    <script src="/js/navigation.js"></script>
+    <link rel="stylesheet" href="/css/styles.css">
+  </head>
+  <body>
+    <header class="shadow-lg border-b border-gray-200">
+      {%include "components/navigation.njk" %}
+    </header>
+    <main>
+      {% include "components/hero.njk" %}
+      {% include "components/features.njk" %}
+      {% include "components/about.njk" %}
+      {% include "components/contact.njk" %}
+      {# {% include "components/certified.njk" %} #}
+      {% include "components/footer.njk" %}
+
+      {# {% block content %}
+        {{ content | safe }}
+      {% endblock content %} #}
+    </main>
+  </body>
+</html>

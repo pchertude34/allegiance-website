@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "label": "5th Wheel",
+      "value": "5th-wheel"
+    },
+    {
+      "label": "Pull Trailer",
+      "value": "pull-trailer"
+    },
+    {
+      "label": "Class A",
+      "value": "class-a"
+    },
+    {
+      "label": "Class B",
+      "value": "class-b"
+    },
+    {
+      "label": "Class C",
+      "value": "class-c"
+    },
+    {
+      "label": "Camper",
+      "value": "camper"
+    },
+    {
+      "label": "Other",
+      "value": "other"
+    }
+  ]
+}

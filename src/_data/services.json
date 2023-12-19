@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "icon": "icons/magnifying-glass.svg",
+      "title": "Diagnostics",
+      "description": "What is wrong? We will come out to diagnose the issue and educate you. We will give you a quote and will not proceed without your approval. We want you to be involved and informed."
+    },
+    {
+      "icon": "icons/wrench.svg",
+      "title": "Repairs",
+      "description": "Appliance and System Repairs: Specializing in fixing refrigerators, furnaces, generators, air conditioners, heat pumps, hot water heaters, slides, awnings, and more."
+    },
+    {
+      "icon": "icons/clipboard.svg",
+      "title": "Inspections",
+      "description": "Comprehensive inspections tailored for your peace of mind. From thorough roof and pre-purchase assessments to RV appliance checks and post-purchase walk-thrus, we've got you covered."
+    },
+    {
+      "icon": "icons/calendar.svg",
+      "title": "Annual Services",
+      "description": "Ensure peak performance and longevity for your investment with our annual services. From winterization to air conditioner and generator maintenance, as well as black/grey tank cleaning – we've got it all covered. Because your investment deserves the best care."
+    }
+  ]
+}
